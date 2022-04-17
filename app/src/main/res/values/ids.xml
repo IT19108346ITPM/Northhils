@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView2" type="id">textView2</item>
+    <item name="listView1" type="id">listView1</item>
+    <item name="btn_back_home" type="id">btn_back_home</item>
+    <item name="textView1" type="id">textView1</item>
+    <item name="editTextTitle" type="id">editTextTitle</item>
+    <item name="editTextVenue" type="id" />
+    <item name="button1" type="id">button1</item>
+    <item name="editTextEndTime" type="id">editTextEndTime</item>
+    <item name="editTextStartTime" type="id" />
+    <item name="editTextDate" type="id" />
+    <item name="editTextEmail" type="id" />
+    <item name="editTextAddress" type="id" />
+</resources>

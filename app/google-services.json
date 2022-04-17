@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428733063369",
+    "project_id": "northhils-49d98",
+    "storage_bucket": "northhils-49d98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428733063369:android:cbd0ccd983d15b3605ad18",
+        "android_client_info": {
+          "package_name": "com.example.foreverfind.northhils"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428733063369-m5ira5t9104d1n4f93m7250niqinc37r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkqlAX-t1yyJMNnl3HGFR3b845p1YjyJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428733063369-m5ira5t9104d1n4f93m7250niqinc37r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
